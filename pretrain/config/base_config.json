@@ -1,6 +1,6 @@
 {
-  "tpu_name": "electra-base",
-  "tpu_zone": "europe-west4-a",
+  "tpu_name": "koelectra",
+  "tpu_zone": "us-central1-f",
   "use_tpu": true,
   "num_tpu_cores": 8,
   "vocab_size": 32200,
